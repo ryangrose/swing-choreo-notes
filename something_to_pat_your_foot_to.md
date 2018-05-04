@@ -29,11 +29,11 @@ First
 
 Second
 
-- 8: 8b Boogie Forward / Slip Slop step
-- 8: Clap, 1: 2b Toe Heels, 5: Boogie Drop (toe heel out maybe with slide)
-- 8: 8b Boogie Forward / Slip Slop step
-- 8: Clap, 1: 2b Toe Heels, 5: Boogie Drop (toe heel out maybe with slide)
-- 8: 8b Boogie Forward / Slip Slop step
+- 8: 8b Boogie Forward / Slip Slop / Kick-slide step
+- 8: Kick, 1: 4b Toe Heels, 6: 2b Scoot/Boogie Drop/Slide out
+- 8: 8b Boogie Forward / Slip Slop / Kick-slide step
+- 8: Kick, 1: 4b Toe Heels, 6: 2b Scoot/Boogie Drop/Slide out
+- 8: 8b Boogie Forward / Slip Slop / Kick-slide step
 - 8: 8b Mess around
 - 8: 8b Mess around
 
@@ -65,5 +65,12 @@ First
 - Step to trumpet for 2 8s (step... step... step. step. step. step.)
 
 Second
+
+- 1: 8b Triple steps
+- 1: 8b Booty sway every other beat
+- 1: 8b Step together w/ wing flapping (to the right)
+- 1: 7b Step together w/ wing flapping (to the left)
+- 8: "Shout" step step step "Shout" step step step
+- 1: 8b Booty sway every other beat
 
 TBD
