@@ -80,9 +80,10 @@ If partnered:
 - 1: Rock step 3: walk 5: walk 7: rock step
 - 1: Jig walk 3: Jig walk 5: Tuck turn to down-stage right
 - 1: (continue tuck turn) 3: Inside turn pass-by
-- 1: swingout
 - 1: swingout (leads kick out/towards audience instead of rock step)
-- 1: lindy circle (unwind on 7-8)
+- 1: lindy circle 
+- 1: unwind
+
 
 If solo:
 
