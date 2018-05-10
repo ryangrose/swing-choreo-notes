@@ -46,7 +46,7 @@ First
 - 8: 8b Skates
 - 8: 8b Tacky Anny
 - 8: 8b Skates
-- 8: 8b Tacky Anny
+- 8: 6b Tacky Anny
 
 Second
 
