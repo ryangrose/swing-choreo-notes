@@ -75,7 +75,16 @@ Second
 
 ## Bridge
 
-(Tentatively partnered, if not this)
+If partnered:
+
+- 1: Rock step 3: walk 5: walk 7: rock step
+- 1: Jig walk 3: Jig walk 5: Tuck turn to down-stage right
+- 1: (continue tuck turn) 3: Inside turn pass-by
+- 1: swingout
+- 1: swingout (leads kick out/towards audience instead of rock step)
+- 1: lindy circle (unwind on 7-8)
+
+If solo:
 
 - 8: Eagle slide 4: Step 5: Kick ball change 7: Cross step with right foot in front
 - 8: 8b Suzie Qs facing to the left moving backwards
@@ -105,7 +114,7 @@ Second
 - 8: 8b Boogie Forward / Slip Slop / Kick-slide step
 - 8: Kick, 1: 4b Toe Heels, 6: 2b Scoot/Boogie Drop/Slide out
 - 8: 8b Boogie Forward / Slip Slop / Kick-slide step
-- 8: 8b Half Break
+- 8: 8b Half Break (x2)
 - 1: 8b Walk forward, back (out and ins) (right foot)
 
 
@@ -113,3 +122,4 @@ Second
 
 - 1: 8b Charleston starting right foot forward
 - 1: Kick up, bring that foot  around to rotate into bow
+    - or lock turn
